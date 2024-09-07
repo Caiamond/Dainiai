@@ -1,0 +1,52 @@
+{
+    "notes": [
+        {
+            "timing": 1.0,
+            "noteType": "Key1"
+        },
+        {
+            "timing": 2.0,
+            "noteType": "Key2"
+        },
+        {
+            "timing": 3.0,
+            "noteType": "Key3"
+        }, 
+        {
+            "timing": 4.0,
+            "noteType": "Key4"
+        }, 
+        {
+            "timing": 5.0,
+            "noteType": "FX1"
+        }, 
+        {
+            "timing": 6.0,
+            "noteType": "FX2"
+        }, 
+        {
+            "timing": 7.0,
+            "noteType": "Key1"
+        }, 
+        {
+            "timing": 7.5,
+            "noteType": "Key2"
+        },
+        {
+            "timing": 8.0,
+            "noteType": "Key3"
+        }, 
+        {
+            "timing": 8.5,
+            "noteType": "Key4"
+        },
+        {
+            "timing": 9.0,
+            "noteType": "FX1"
+        }, 
+        {
+            "timing": 9.5,
+            "noteType": "FX2"
+        }
+    ]
+}
